@@ -1,4 +1,4 @@
-require_relative '../lib/introduction'
+require_relative '..lib/introduction'
 
 describe "#introduction" do 
   it "takes in an argument of a name and puts out a phrase with that name using string interpolation" do 
